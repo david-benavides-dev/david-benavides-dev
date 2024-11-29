@@ -1,6 +1,6 @@
 <p align="center"><img width="80%" alt="Hola! Soy David" src="./assets/readme-header.png"/></p>
 
-Estudiante de **DAW** con una gran capacidad para aprender y adaptarme a diferentes entornos rápidamente. Actualmente estoy desarrollando mis habilidades en Kotlin y Python a través de ejercicios prácticos y proyectyos académicos, aplicando principios SOLID y buenas prácticas de programación.
+Estudiante de **DAW** con una gran capacidad para aprender y adaptarme a diferentes entornos rápidamente. Actualmente estoy desarrollando mis habilidades en Kotlin y Python a través de ejercicios prácticos y proyectos académicos, aplicando principios SOLID y buenas prácticas de programación.
 
 ## 🛠️ Tecnologías y Herramientas
 
