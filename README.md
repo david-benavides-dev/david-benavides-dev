@@ -1,6 +1,6 @@
 <p align="center"><img width="80%" alt="Hola! Soy David" src="./assets/readme-header.png"/></p>
 
-Estudiante de **DAW** con una gran capacidad para aprender y adaptarme a diferentes entornos rápidamente. Actualmente estoy desarrollando mis habilidades en Kotlin y Python a través de ejercicios prácticos y proyectos académicos, aplicando principios SOLID y buenas prácticas de programación.
+Estudiante de primero de **DAW** con gran capacidad para aprender y adaptarme a diferentes entornos rápidamente. Actualmente estoy desarrollando mis habilidades en Kotlin a través de ejercicios prácticos y proyectos académicos, aplicando principios SOLID y buenas prácticas de programación.
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -10,8 +10,7 @@ Estudiante de **DAW** con una gran capacidad para aprender y adaptarme a diferen
     <img src="https://img.shields.io/badge/kotlin-51376B?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin" title="Kotlin" />
     <img src="https://img.shields.io/badge/css3-782A5D?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" title="CSS3" />
     <img src="https://img.shields.io/badge/bash-9E1C4F?logo=gnubash&logoColor=white&style=for-the-badge" alt="Bash" title="Bash" />
-    <img src="https://img.shields.io/badge/javascript-C40E41?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript" title="JavaScript" />
-    <img src="https://img.shields.io/badge/git-EA0034?logo=git&logoColor=white&style=for-the-badge" alt="Git" title="Git" />
+    <img src="https://img.shields.io/badge/git-C40E41?logo=git&logoColor=white&style=for-the-badge" alt="Git" title="Git" />
 </p>
 
 ## 📫 Conéctate Conmigo
